@@ -29,5 +29,3 @@ The output.txt file will provide the result of the Simulated Annealing algorithm
 The time complexity of this Simulated Annealing algorithm is O(MAX * t), where MAX is the number of times the algorithm is reset, and t is the number of iterations the algorithm runs in each reset. This is because the algorithm takes a constant amount of time to evaluate the value of the function f and to update the current state and current maximum value.
 
 The space complexity of this algorithm is O(1), as it only requires a constant amount of memory to store the current state, the current maximum value, and some variables to control the algorithm.
-
-It is important to note that the time complexity can be affected by the choice of the cooling rate, as well as the maximum number of iterations allowed in each temperature.
