@@ -1,0 +1,2 @@
+# PhD_Coursework_UNO
+ This GitHub repository contains all the slides, assignments, and coursework related to the author's PhD in Engineering and Applied Science. The repository serves as a centralized location for organizing and storing all the important materials for the author's research work. The materials include presentations, reports, and other course-related documents. The repository is an essential resource for the author's academic progress and research journey and can be used as a reference for future projects.
