@@ -11,7 +11,7 @@ This repository contains the code for a Simulated Annealing algorithm that finds
 
 To run the code, simply run the following command in your terminal or command prompt: 
 
-* Clone the repository to your local machine using the command ‘git clone https://github.com/padam56/PhD_Coursework_UNO/tree/main/Machine%20Learning%20II/Assignments/Assignment-I'
+* Clone the repository to your local machine using the command ‘git clone https://github.com/padam56/PhD_Coursework_UNO/tree/main/Machine%20Learning%20II/Assignments/Assignment-I/Simulated%20Annealing'
 * Open the Jupyter Notebook file named Simulated_Annealing.ipynb
 * Run the code in the Jupyter Notebook by clicking on "Cell" in the top menu and then selecting "Run All"
 
