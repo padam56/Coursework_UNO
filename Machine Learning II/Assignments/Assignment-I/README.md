@@ -11,7 +11,7 @@ This code implements a Hill-climbing algorithm to find the maximum value of a fu
 
 To run the code, simply run the following command in your terminal or command prompt: 
 
-* Clone the repository to your local machine using the command ‘git clone https://github.com/padam56/machinelearningII/Assignment-I.git.
+* Clone the repository to your local machine using the command ‘git clone https://github.com/padam56/PhD_Coursework_UNO/tree/main/Machine%20Learning%20II/Assignments/Assignment-I'
 * Open the Jupyter Notebook file named hill_climbing.ipynb
 * Run the code in the Jupyter Notebook by clicking on "Cell" in the top menu and then selecting "Run All"
 
