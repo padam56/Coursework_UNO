@@ -12,7 +12,7 @@ Welcome to my personal GitLab repository for the Intelligent Agents course (CSCI
 
 This repository is organized into several folders, each designated for specific types of submissions.
 
-Some Sample Plots:
+Some Sample Experiments Plots:
 
 ![Plot 1](images/image1.png)
 ![Plot 2](images/image2.png)
